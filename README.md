@@ -1,4 +1,5 @@
 # sqlite
+[![Build Status](https://travis-ci.org/aucd29/sqlite.svg?branch=master)](https://travis-ci.org/aucd29/sqlite)
 
 Add it to your build.gradle with:
 ```gradle
